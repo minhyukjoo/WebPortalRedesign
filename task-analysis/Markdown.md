@@ -12,6 +12,7 @@ It is a very complicated task to get to the stage where you can start picking cl
 
 
 ## Login
+![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/login.JPG "Logo Title Text 1")
 Login page simplified similar to iOS style: 
 1. Simple login form with username and password
 2. Logo and banner as header design
