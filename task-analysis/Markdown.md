@@ -1,30 +1,20 @@
 # Add/Drop Class Redesign
 
-
-
 ## The Problem
-
-
 
 It is a very complicated task to get to the stage where you can start picking classes. We would like to simplify the process for students by these following steps. 
 
-1. Opening Acedemics tab
+1. Login
+2. Opening Acedemics tab
 2. Entering Pin
-
 3. Select Add/Drop class
 4. Choose either Major classes, Humanities classes or other.
 
 
 ## Login
-
-
-
 Login page simplified similar to iOS style: 
-
 1. Simple login form with username and password
 2. Logo and banner as header design
-
-
 
 ## Welcome
 
