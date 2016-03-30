@@ -24,7 +24,7 @@ Login page simplified similar to iOS style:
 
 
 ## Welcome
-
+![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/screenshots/iitHOMEPAGE.png "Logo Title Text 1")
 
 There will be nav bar with simplified options. 
 1. Academics
