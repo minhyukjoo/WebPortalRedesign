@@ -48,22 +48,26 @@ Only two options instead of so many unnecessary task panes. This is more clear a
 
 ## Add or Drop
 After clicking Add or Drop:
+
 1. Enter desired semester
 2. Enter pin number
 
 This will be only in one page, to keep it simple. 
 
 ## Registering for classes. 
+
 1. Add 
 2. Drop
 
 ## Add
 Show 3 options: 
+
 1. Major classes
 2. Humanities classes
 3. Other classes
 
 ## Drop
 This will show the current schedule
+
 1. There will be an red "X" sign next to the current class, to drop it. 
  
