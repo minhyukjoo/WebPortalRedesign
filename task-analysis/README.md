@@ -6,8 +6,8 @@ We would like to simplify the process of Add/Drop classes for students by these 
 
 1. Login
 2. Opening Acedemics tab
-2. Entering Pin
-3. Select Add/Drop class
+2. Entering Pin & desired semester
+3. Select Add or Drop class
 4. If Add is chosen - Choose either Major classes, Humanities classes or other.
 5. If Drop is chosen - Show current schedule, with red "x" to drop classes. 
 
@@ -55,19 +55,20 @@ Once you enter, there will be only 2 options to keep it simple and clear.
 2. Drop
 
 ## Add
-Under Add, there will be 3 options. Instead of looking through the list of other course, we will simplify to Major, Humanities and Other classes.
+Under Add, there will be 3 options. Instead of looking through the long list of ALL the courses offered in IIT, we will simplify to these 3 categories: Major, Humanities and Other classes.
 
 1. Major classes
 2. Humanities classes
 3. Other classes
 
-Once you find your course, it will appear in a school table (like in Week at Glance). This will show the exact date and time, which is very clear for the student. Once you hover onto the class, it will show a bubble (like a message bubble) for further information like location, Professor name and section number.
+Once you find your course, it will appear in a school table (like in Week at Glance, which will be shown under "Drop" section). This will show the exact date and time in the timetable slot, which is very clear for the student. Once you hover onto the class, it will show a bubble (like a message bubble) for further information like location, Professor name and section number.
 
 ## Drop
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/add-drop.JPG "Logo Title Text 1")
 This will show the current schedule of the student in a "week at a glance". In the corner of the course, there will be a red "x" to drop the class.
-This will keep the design simple and easy to adapt for new students as well. 
+This will keep the design simple and easy to adapt for new students as well. Unlike the current drop class webpage, which shows "excel table style" information and too many steps to drop a class. 
 
 1. It will show current schedule.
 2. There will be an red "X" sign next to the current class, to drop it. 
- 
+
+(Our group couldn't provide screenshots of current my.iit webpages of Add/Drop because we need a PIN number to access those pages. It's currently the registration period for Summer & Fall classes. Due to this inconvenience, we will provide those screenshots in the near future. )
