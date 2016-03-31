@@ -3,6 +3,7 @@
 ## The Problem
 There is a lot of information that student doesn't really need, and as students, we don't pay much attention to news in different departments. Therefore, we will only leave the necessary information that is directly relevant to the student (such as news from the department that student is part of). It is a very complicated task to get to the stage where you can start picking classes. 
 We would like to simplify the process of Add/Drop classes for students by these following steps. 
+
 1. Login
 2. Opening Acedemics tab
 2. Entering Pin
@@ -12,6 +13,7 @@ We would like to simplify the process of Add/Drop classes for students by these 
 ## Login
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/login.JPG "Logo Title Text 1")
 Login page simplified similar to iOS style: 
+
 1. Simple login form with username and password
 2. Logo and banner as header design
 
@@ -37,6 +39,7 @@ Only two options instead of so many unnecessary task panes that majority of stud
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/courses.JPG "Logo Title Text 1")
 Under Registration Tools, our group will focus on Add/Drop option. Instead of clicking through so many webpages, we will combine it into 1 webpage. This will be in a "sign up" format to get student's data.
 After clicking Add or Drop, we will request the student to enter:
+
 1. Desired semester
 2. Pin number
 This will be only in one page, to keep it simple. 
@@ -44,6 +47,7 @@ This will be only in one page, to keep it simple.
 ## Registering for classes. 
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/itm.JPG "Logo Title Text 1")
 Once you enter, there will be only 2 options to keep it simple and clear. 
+
 1. Add 
 2. Drop
 
