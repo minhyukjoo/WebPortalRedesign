@@ -42,6 +42,7 @@ Keeping it simple instead of so many unnecessary task panes that majority of stu
 ## Entering semester and pin number
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/semester.JPG "select semester")
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/pin.JPG "select pin")
+
 This will be in a "sign in" format to get student's data.
 After clicking Add or Drop, we will request the student to enter:
 
