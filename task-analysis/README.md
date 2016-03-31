@@ -11,7 +11,7 @@ We would like to simplify the process of Add/Drop classes for students by these 
 4. If Add is chosen - Choose either Major classes, Humanities classes or other.
 5. If Drop is chosen - Show current schedule, with red "x" to drop classes. 
 
-###Here is a [link](https://my.iit.edu) to the original WebPortal we are redesigning.
+#####Here is a [link](https://my.iit.edu) to the original WebPortal we are redesigning.
 
 ## Login
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/login.JPG "Logo Title Text 1")
