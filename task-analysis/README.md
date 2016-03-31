@@ -3,15 +3,14 @@
 ## The Problem
 There is a lot of information that student doesn't really need, and as students, we don't pay much attention to news in different departments. Therefore, we will only leave the necessary information that is directly relevant to the student (such as news from the department that student is part of). It is a very complicated task to get to the stage where you can start picking classes. 
 We would like to simplify the process of Add/Drop classes for students by these following steps. 
+#####Here is a [link](https://my.iit.edu) to the original WebPortal we are redesigning.
 
 1. Login
-2. Opening Acedemics tab
-2. Entering Pin & desired semester
+2. Navigating to Acedemics tab
 3. Select Add or Drop class
-4. If Add is chosen - Choose either Major classes, Humanities classes or other.
-5. If Drop is chosen - Show current schedule, with red "x" to drop classes. 
-
-#####Here is a [link](https://my.iit.edu) to the original WebPortal we are redesigning.
+4. Entering Pin & desired semester
+5. To Add - Choose either Major, Humanities, Math, Science, or other classes.
+6. To Drop - From the week's current schedule, click red "x" to drop classes. 
 
 ## Login
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/login.JPG "login")
@@ -31,13 +30,13 @@ There will be nav bar with simplified options directly relevant to that student.
 
 ## Academics
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/academics.JPG "academics")
-When you click at Academics, there will be further options.
+When you click on Academics, there will be further options.
 
 1. Registration Tools
 2. Self-Banner Service
 3. Other resources
 
-Only two options instead of so many unnecessary task panes that majority of students don't look at. This is more clear and visible for the user. Students usually get lost in the current website. Furthermore, we will change the "excel list" style to more user-friendly interface. 
+Keeping it simple instead of so many unnecessary task panes that majority of students don't look at. This is more clear and visible for the user. Students usually get lost in the current website. Furthermore, we will change the "excel list" style to more user-friendly modern interface. 
 
 ## Add or Drop
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/semester.JPG "select semester")
