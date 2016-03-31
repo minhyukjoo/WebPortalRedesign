@@ -31,13 +31,16 @@ There will be nav bar with simplified options directly relevant to that student.
 
 ## Academics
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/academics.JPG "academics")
-When you click on Academics, there will be further options.
+When you click on Academics, there will be further task pane options.
 
 1. Registration Tools
 2. Self-Banner Service
 3. Other resources
 
 Keeping it simple instead of so many unnecessary task panes that majority of students don't look at. This is more clear and visible for the user. Students usually get lost in the current website. Furthermore, we will change the "excel list" style to more user-friendly modern interface. 
+
+## Add/Drop Option
+Under Registration Tools, there will be a sub-option for Add/Drop. Once the student clicks on it, it will reload the page and ask the user to input information to aid with add/drop process.
 
 ## Entering semester and pin number
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/semester.JPG "select semester")
