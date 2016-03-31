@@ -61,7 +61,9 @@ Under Add, there will be 3 options. Instead of looking through the long list of 
 
 1. Major classes
 2. Humanities classes
-3. Other classes
+3. Mathematics classes
+4. Science classes
+5. Other classes
 
 Once you find your course, it will appear in a school table (like in Week at Glance, which will be shown under "Drop" section). This will show the exact date and time in the timetable slot, which is very clear for the student. Once you hover onto the class, it will show a bubble (like a message bubble) for further information like location, Professor name and section number.
 
