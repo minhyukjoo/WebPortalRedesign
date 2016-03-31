@@ -33,6 +33,7 @@ When you click at Academics, there will be further options.
 1. Registration Tools
 2. Self-Banner Service
 3. Other resources
+
 Only two options instead of so many unnecessary task panes that majority of students don't look at. This is more clear and visible for the user. Students usually get lost in the current website. Furthermore, we will change the "excel list" style to more user-friendly interface. 
 
 ## Add or Drop
@@ -42,6 +43,7 @@ After clicking Add or Drop, we will request the student to enter:
 
 1. Desired semester
 2. Pin number
+
 This will be only in one page, to keep it simple. 
 
 ## Registering for classes. 
