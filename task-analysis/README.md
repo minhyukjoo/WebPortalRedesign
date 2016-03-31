@@ -71,4 +71,4 @@ This will keep the design simple and easy to adapt for new students as well. Unl
 1. It will show current schedule.
 2. There will be an red "X" sign next to the current class, to drop it. 
 
-(Our group couldn't provide screenshots of current my.iit webpages of Add/Drop because we need a PIN number to access those pages. It's currently the registration period for Summer & Fall classes. Due to this inconvenience, we will provide those screenshots in the near future. )
+(Our group couldn't provide screenshots of current my.iit webpages of Add/Drop because we need a PIN number to access those pages. It's currently the registration period for Summer & Fall classes. Due to this inconvenience, we will provide those screenshots in the near future.)
