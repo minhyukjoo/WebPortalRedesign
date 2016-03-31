@@ -8,7 +8,8 @@ We would like to simplify the process of Add/Drop classes for students by these 
 2. Opening Acedemics tab
 2. Entering Pin
 3. Select Add/Drop class
-4. Choose either Major classes, Humanities classes or other.
+4. If Add is chosen - Choose either Major classes, Humanities classes or other.
+5. If Drop is chosen - Show current schedule, with red "x" to drop classes. 
 
 ## Login
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/login.JPG "Logo Title Text 1")
