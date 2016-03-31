@@ -64,6 +64,7 @@ Under Add, there will be 3 options. Instead of looking through the list of other
 Once you find your course, it will appear in a school table (like in Week at Glance). This will show the exact date and time, which is very clear for the student. Once you hover onto the class, it will show a bubble (like a message bubble) for further information like location, Professor name and section number.
 
 ## Drop
+![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/add-drop.JPG "Logo Title Text 1")
 This will show the current schedule of the student in a "week at a glance". In the corner of the course, there will be a red "x" to drop the class.
 This will keep the design simple and easy to adapt for new students as well. 
 
