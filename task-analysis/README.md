@@ -14,14 +14,14 @@ We would like to simplify the process of Add/Drop classes for students by these 
 #####Here is a [link](https://my.iit.edu) to the original WebPortal we are redesigning.
 
 ## Login
-![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/login.JPG "Logo Title Text 1")
+![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/login.JPG "login")
 Login page simplified similar to iOS style: 
 
 1. Simple login form with username and password
 2. Logo and banner as header design
 
 ## Welcome
-![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/welcome.JPG "Logo Title Text 1")
+![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/welcome.JPG "welcome")
 There will be nav bar with simplified options directly relevant to that student. 
 
 1. Welcome
@@ -30,7 +30,7 @@ There will be nav bar with simplified options directly relevant to that student.
 4. Other Resources
 
 ## Academics
-![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/academics.JPG "Logo Title Text 1")
+![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/academics.JPG "academics")
 When you click at Academics, there will be further options.
 
 1. Registration Tools
@@ -40,7 +40,8 @@ When you click at Academics, there will be further options.
 Only two options instead of so many unnecessary task panes that majority of students don't look at. This is more clear and visible for the user. Students usually get lost in the current website. Furthermore, we will change the "excel list" style to more user-friendly interface. 
 
 ## Add or Drop
-![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/courses.JPG "Logo Title Text 1")
+![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/semester.JPG "select semester")
+![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/pin.JPG "select pin")
 Under Registration Tools, our group will focus on Add/Drop option. Instead of clicking through so many webpages, we will combine it into 1 webpage. This will be in a "sign up" format to get student's data.
 After clicking Add or Drop, we will request the student to enter:
 
@@ -49,14 +50,15 @@ After clicking Add or Drop, we will request the student to enter:
 
 This will be only in one page, to keep it simple. 
 
-## Registering for classes. 
-![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/itm.JPG "Logo Title Text 1")
+## Registering for classes.
+![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/courses.JPG "courses category")
 Once you enter, there will be only 2 options to keep it simple and clear. 
 
 1. Add 
 2. Drop
 
 ## Add
+![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/itm.JPG "individual courses")
 Under Add, there will be 3 options. Instead of looking through the long list of ALL the courses offered in IIT, we will simplify to these 3 categories: Major, Humanities and Other classes.
 
 1. Major classes
@@ -68,7 +70,7 @@ Under Add, there will be 3 options. Instead of looking through the long list of 
 Once you find your course, it will appear in a school table (like in Week at Glance, which will be shown under "Drop" section). This will show the exact date and time in the timetable slot, which is very clear for the student. Once you hover onto the class, it will show a bubble (like a message bubble) for further information like location, Professor name and section number.
 
 ## Drop
-![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/add-drop.JPG "Logo Title Text 1")
+![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/add-drop.JPG "week's schedule")
 This will show the current schedule of the student in a "week at a glance". In the corner of the course, there will be a red "x" to drop the class.
 This will keep the design simple and easy to adapt for new students as well. Unlike the current drop class webpage, which shows "excel table style" information and too many steps to drop a class. 
 
